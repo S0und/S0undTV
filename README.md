@@ -8,6 +8,13 @@ changelog: https://s0und.github.io/S0undTV-Changelog/
 
 **This app has no affiliation with Twitch Interactive, Inc.**
 
+
+![](images/image1.jpg?raw=true)
+
+![](images/image2.jpg?raw=true)
+
+![](images/image3.jpg?raw=true)
+
 Features:
 
 - UI designed for big screen experience
