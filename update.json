@@ -1,0 +1,18 @@
+[
+    {
+        "APK": "release.apk",
+        "ReleaseDate": "2021-01-04T19:49:40.856Z",
+        "ReleaseType": 0,
+        "VersionCode": 104,
+        "VersionName": "v1.3.10",
+        "hasChangeLog": true
+    },
+    {
+        "APK": "beta_105.apk",
+        "ReleaseDate": "2021-08-11T21:00:00.000Z",
+        "ReleaseType": 1,
+        "VersionCode": 105,
+        "VersionName": "105",
+        "hasChangeLog": true
+    }
+]
