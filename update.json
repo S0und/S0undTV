@@ -8,11 +8,11 @@
         "hasChangeLog": true
     },
     {
-        "APK": "beta_106.apk",
-        "ReleaseDate": "2021-08-16T22:00:00.000Z",
+        "APK": "beta_107.apk",
+        "ReleaseDate": "2021-08-24T18:23:00.000Z",
         "ReleaseType": 1,
-        "VersionCode": 106,
-        "VersionName": "106",
-        "hasChangeLog": true
+        "VersionCode": 107,
+        "VersionName": "107",
+        "hasChangeLog": false
     }
 ]
