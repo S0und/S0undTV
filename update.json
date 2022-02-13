@@ -1,11 +1,11 @@
 [
     {
-        "APK": "release.apk",
-        "ReleaseDate": "2021-01-04T19:49:40.856Z",
+        "APK": "S0undTV_v1.4_RC1_standalone.apk",
+        "ReleaseDate": "2022-02-13T18:30:00.000Z",
         "ReleaseType": 0,
-        "VersionCode": 104,
-        "VersionName": "v1.3.10",
-        "hasChangeLog": true
+        "VersionCode": 113,
+        "VersionName": "v1.4_RC1",
+        "hasChangeLog": false
     },
     {
         "APK": "beta_111.apk",
@@ -13,6 +13,14 @@
         "ReleaseType": 1,
         "VersionCode": 111,
         "VersionName": "111",
+        "hasChangeLog": false
+    },
+    {
+        "APK": "",
+        "ReleaseDate": "",
+        "ReleaseType": 3,
+        "VersionCode": 113,
+        "VersionName": "v1.4_RC1",
         "hasChangeLog": false
     }
 ]
