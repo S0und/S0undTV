@@ -5,7 +5,7 @@
         "ReleaseType": 0,
         "VersionCode": 113,
         "VersionName": "v1.4_RC1",
-        "hasChangeLog": false
+        "hasChangeLog": true
     },
     {
         "APK": "beta_111.apk",
