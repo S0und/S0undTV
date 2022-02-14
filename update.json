@@ -21,6 +21,6 @@
         "ReleaseType": 3,
         "VersionCode": 113,
         "VersionName": "v1.4_RC1",
-        "hasChangeLog": false
+        "hasChangeLog": true
     }
 ]
