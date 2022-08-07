@@ -19,7 +19,7 @@ Features:
 
 - UI designed for big screen experience
 - Live streams with chat
-- BTTV and FFZ emote support
+- BTTV, FFZ and 7TV emote support
 - Picture in picture, with customization
 - Live stream preview for easier browsing
 - 'Peekview', easy way to browse for other content while watching a stream
@@ -37,5 +37,6 @@ Features:
 - Multiple UI Themes
 - Basic gesture control in the Player
 - Recommendation channels 
+- Historical chat messages (see what happened on the channel before you've joined) powered by https://recent-messages.robotty.de/
 
-Disclaimer: some of the features are only work on powerful Android TV devices, exp.: Nvidia Shield TV, Mi Box.
+Disclaimer: some of these features are only work on powerful Android TV devices, exp.: Nvidia Shield TV, Mi Box.
