@@ -1,26 +1,26 @@
 [
-    {
-        "APK": "S0undTV_v1.4.2_118_standalone.apk",
-        "ReleaseDate": "2022-06-11T18:00:00.000Z",
-        "ReleaseType": 0,
-        "VersionCode": 118,
-        "VersionName": "v1.4.2",
-        "hasChangeLog": true
-    },
-    {
-        "APK": "beta_120.apk",
-        "ReleaseDate": "2022-08-07T23:15:00.000Z",
-        "ReleaseType": 1,
-        "VersionCode": 120,
-        "VersionName": "beta_120",
-        "hasChangeLog": true
-    },
-    {
-        "APK": "",
-        "ReleaseDate": "",
-        "ReleaseType": 3,
-        "VersionCode": 118,
-        "VersionName": "v1.4.2",
-        "hasChangeLog": true
-    }
+  {
+    "APK": "S0undTV_v1.4.2_118_standalone.apk",
+    "ReleaseDate": "2022-06-11T18:00:00.000Z",
+    "ReleaseType": 0,
+    "VersionCode": 118,
+    "VersionName": "v1.4.2",
+    "hasChangeLog": true
+  },
+  {
+    "APK": "beta_121.apk",
+    "ReleaseDate": "2022-11-07T11:56:01.000Z",
+    "ReleaseType": 1,
+    "VersionCode": 121,
+    "VersionName": "beta_121",
+    "hasChangeLog": true
+  },
+  {
+    "APK": "",
+    "ReleaseDate": "",
+    "ReleaseType": 3,
+    "VersionCode": 118,
+    "VersionName": "v1.4.2",
+    "hasChangeLog": true
+  }
 ]
