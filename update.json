@@ -1,10 +1,10 @@
 [
   {
-    "APK": "S0undTV_v1.5.6_137_standalone.apk",
-    "ReleaseDate": "2023-07-27T22:50:32.000Z",
+    "APK": "S0undTV_v1.5.7_138_standalone.apk",
+    "ReleaseDate": "2023-07-28T23:40:16.000Z",
     "ReleaseType": 0,
-    "VersionCode": 137,
-    "VersionName": "v1.5.6",
+    "VersionCode": 138,
+    "VersionName": "v1.5.7",
     "hasChangeLog": true
   },
   {
@@ -16,11 +16,11 @@
     "hasChangeLog": true
   },
   {
-    "APK": "S0undTV_v1.5.5_136_googleplay.apk",
-    "ReleaseDate": "2023-05-31T23:56:53.000Z",
+    "APK": "S0undTV_v1.5.6_137_googleplay.apk",
+    "ReleaseDate": "2023-07-27T22:55:37.000Z",
     "ReleaseType": 3,
-    "VersionCode": 136,
-    "VersionName": "v1.5.5",
+    "VersionCode": 137,
+    "VersionName": "v1.5.6",
     "hasChangeLog": true
   }
 ]
