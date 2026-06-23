@@ -46,7 +46,7 @@ Disclaimer: some of these features are only work on powerful Android TV devices,
 #### Easy
 
 1. Install [Downloader by AFTVnews](https://www.aftvnews.com/downloader/) from [Google Play](https://play.google.com/store/apps/details?id=com.esaba.downloader) or [Amazon app store](https://www.amazon.co.uk/dp/B01N0BP507)
-2. Use this URL inside the Downloader app: **https://bit.ly/S0und-TV** and download the apk
+2. Type [**822639**](http://aftv.news/822639) or type the following URL inside the Downloader app: **https://bit.ly/S0und-TV** and download the apk
 3. Install the app, launch it, and it will prompt you to update S0undTV itself so you have the latest version. 
 
 #### "Difficult" 
